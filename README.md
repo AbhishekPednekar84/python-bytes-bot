@@ -1,5 +1,7 @@
 # Python Bytes Podcast - Telegram Bot
 
+[![Build Status](https://travis-ci.org/AbhishekPednekar84/python-bytes-bot.svg?branch=master)](https://travis-ci.org/AbhishekPednekar84/python-bytes-bot)
+
 This repository contains the Python (v3.7) code for the [Python Bytes Podcast Telegram bot](https://t.me/@PythonBytesBot).
 
 ## Using the bot
